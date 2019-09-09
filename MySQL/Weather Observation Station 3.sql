@@ -14,5 +14,6 @@ You may print the results in any order, but must exclude duplicates from your an
 
 SELECT DISTINCT CITY FROM STATION WHERE (ID%2=0)
 
-// distinct -> to remove duplicate data
-// ```where (id%2=0)``` to set condition and get only the even ID
+/*distinct -> to remove duplicate data
+```where (id%2=0)``` to set condition and get only the even ID"
+*/
